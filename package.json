@@ -10,16 +10,11 @@
     "equivocation": "node scenarios/equivocation.js",
     "key-theft": "node scenarios/key_theft.js",
     "sybil": "node scenarios/sybil.js",
-<<<<<<< HEAD
-    "quorum": "node scenarios/quorum_tampering.js"
-  }, 
-=======
     "quorum": "node scenarios/quorum_tampering.js",
     "part7": "node scenarios/part7_breaking.js",
     "part8": "node scenarios/part8_hardening.js",
     "test:part8": "node --test tests/part8.test.js"
   },
->>>>>>> 4f0d8dc (part 8)
   "author": "Inah Omororonyia",
   "license": "ISC"
 }
