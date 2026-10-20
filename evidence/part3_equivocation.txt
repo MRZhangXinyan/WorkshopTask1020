@@ -1,0 +1,19 @@
+
+> bft-lab@1.0.0 equivocation
+> node scenarios/equivocation.js
+
+{
+  nodeId: 'D',
+  value: 100,
+  signature: 'fc9daaeaf50cc2daf1b9a23cef673a4d7e0b56e25422ce147744738fa75e8017'
+}
+{
+  nodeId: 'D',
+  value: 50,
+  signature: '95298f81a6212895a9b19fc91bdb63b34aea36c813cb5ff8033c0d9f8680872e'
+}
+{
+  nodeId: 'D',
+  value: 75,
+  signature: '464c60f5969fc779697d7c23bbfc9493bb0b6f1705dd592d02a0de2e22abefbb'
+}

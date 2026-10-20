@@ -1,0 +1,22 @@
+
+> bft-lab@1.0.0 honest
+> node scenarios/honest.js
+
+
+====================
+Proposal: 100
+====================
+A voted 100
+B voted 100
+C voted 100
+D voted 100
+
+Vote Tally
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│ 100     │ 4      │
+└─────────┴────────┘
+Required Quorum = 3
+
+COMMITTED: 100

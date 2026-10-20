@@ -1,0 +1,10 @@
+
+> bft-lab@1.0.0 key-theft
+> node scenarios/key_theft.js
+
+Forged message
+{
+  nodeId: 'A',
+  value: 999,
+  signature: '669dd5970bf6d1d8ac7b2aaffbfd9d7159f19aeae7c3c45a6dd50bc1867161d0'
+}
