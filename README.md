@@ -333,8 +333,6 @@ Consult the workshop manual and the current Blackboard instructions before submi
 - A GitHub tag containing the workshop date and name.
 - An invitation to the GitHub user **`systemsecuritybcsg`**.
 
-The manual refers to submitting the implementation of “both tasks” without unambiguously identifying those two tasks in its Parts 1–9 structure; clarify the final assessment/submission scope with teaching staff if necessary. **Do not treat the optional Part 9 as compulsory.**
-
 Before uploading, confirm the project still runs from a clean checkout, that no real secrets or credentials are included, and that the README's student/date placeholders are filled in.
 
 ## 13. Acknowledgement
